@@ -1,5 +1,5 @@
 _repo: Homo-Sum-Volume-02_5495
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Bell, Clara
@@ -35,5 +35,6 @@ subjects:
 - !lcc 'PT'
 - !lcsh 'Church history -- 4th century -- Fiction'
 - !lcsh 'German fiction -- Translations into English'
+- GITenberg
 title: Homo Sum — Volume 02
 url: http://www.gutenberg.org/ebooks/5495
